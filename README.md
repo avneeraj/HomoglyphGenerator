@@ -12,8 +12,8 @@ A Flask-based web application designed to generate homoglyph variants of input t
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/homoglyph-attacker.git
-    cd HomoglyphAttacker
+    git clone https://github.com/avneeraj/HomoglyphGenerator.git
+    cd HomoglyphGenerator
     ```
 
 2.  **Install dependencies**:
